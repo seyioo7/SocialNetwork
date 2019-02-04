@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1067567145868",
+    "firebase_url": "https://besocial-ddd63.firebaseio.com",
+    "project_id": "besocial-ddd63",
+    "storage_bucket": "besocial-ddd63.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1067567145868:android:0da3684a87e343c5",
+        "android_client_info": {
+          "package_name": "com.example.dell.socialnetwork"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1067567145868-iigs4117o8cjfb8kofm2akfc26ii5055.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dell.socialnetwork",
+            "certificate_hash": "c8dea1d4456f44dfdb814a5a57bf3c96eafd31f9"
+          }
+        },
+        {
+          "client_id": "1067567145868-39evgbf9esgni0e6i9c2lneabeujf8h0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYA35eJ-mXmxDM9pOXoP6BszqxeyH50V0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1067567145868-39evgbf9esgni0e6i9c2lneabeujf8h0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
